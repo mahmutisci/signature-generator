@@ -1,0 +1,25 @@
+@import url("bootstrap.min.css");
+.shower{display: none;}
+.jumbotron{position: relative;}
+.copyBtn{
+    position: absolute;
+    right: 24px;
+    top: 24px;
+}
+#element{
+    position: fixed; 
+    top: 20px; 
+    right: 20px;
+}
+@media screen and (max-width: 768px){
+    .copyBtn{
+        position: static;
+        margin-top: 16px;
+    }
+    #element{
+        max-width: calc(100% - 30px);
+        right: 15px;
+        top: inherit;
+        bottom: 15px;
+    }
+}

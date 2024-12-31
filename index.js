@@ -2,7 +2,7 @@ const template = (
   name = "John Doe",
   title = "Developer",
   phone = "+90 (000) 000 00 00"
-) => `<html><head><meta http-equiv="content-type" content="text/html;charset=utf-8" /></head><body><table style="margin: 0; padding: 0; border-collapse: collapse"><tbody><tr><td style="padding: 0"><a href="https://www.hipporello.com" target="_blank"><img src="assets/hipporello-logo.png" height="100" style="display: block; margin: 0px; float: none; padding: 0px; border: 0px;" title="Hipporello Logo" alt="Hipporello Logo" /></a></td>
+) => `<html><head><meta http-equiv="content-type" content="text/html;charset=utf-8" /></head><body><table style="margin: 0; padding: 0; border-collapse: collapse"><tbody><tr><td style="padding: 0"><a href="https://www.hipporello.com" target="_blank"><img src="https://mahmut.link/signature-generator/assets/hipporello-logo.png" height="100" style="display: block; margin: 0px; float: none; padding: 0px; border: 0px;" title="Hipporello Logo" alt="Hipporello Logo" /></a></td>
 <td style="padding: 0 0 0 8px"><table style="padding: 0; margin: 0"><tr><td style="font-family: '-apple-system', 'system-ui', 'BlinkMacSystemFont', 'Poppins', 'Helvetica', Arial; font-size: 13px; font-weight: bold; padding: 0; margin: 0; color: #001975;">${name}</td></tr>
             <tr>
               <td
